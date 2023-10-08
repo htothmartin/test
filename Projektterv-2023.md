@@ -10,7 +10,9 @@ Ez a projektterv a Film bérlés projektet mutatja be, amely 2023-10-05-től 202
 
 ### 2.1. Rendszerspecifikáció
 
-// TODO
+A Film Bérlő rendszer célja az online filmkölcsönzés lehetővé tétele, amely lehetővé teszi a felhasználók számára, hogy filmeket böngésszenek, béreljenek. A rendszernek képesnek kell lennie a weboldalon elérhető filmekek állapotát (cím, hossz, ár, leírás, borítókép, megjegyzések, értékelések) nyilván tartsa és hogy a rendszer a bejövő bérléseket rendszerezze. 
+Ezen felül kepesnek kell lennie a filmkatalógus, a felhasználói fiókok és a bérlési folyamat kezelésére. A rendszer különbőző szerepköröket támogat, a regisztrált felhasználók akiknek a következő funkciók érhetöek  majd el: filmek böngészése, bérlése, fiók kezelése, kedvenc filmek, film watchlist, értékelés, megjegyzések, az  adminisztrátoroknak elérhető funkciók: felhasználói fiókok kezelése, bérlési folyamat felügyelete, filmek hozzáadása. 
+A rendszernek rendelkeznie kell egy kereső funkcióval, amivel a felhasználók kereshetnek az elérhető filmek között. Az oldalnak lehetőséget kell biztosítania a felhasználóknak arra, hogy kapcsolatba lépjenek az oldal üzemeltetőivel, ha bármilyen problémájuk van.
 
 ### 2.2. Funkcionális követelmények
 

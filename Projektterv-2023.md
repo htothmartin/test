@@ -75,7 +75,8 @@ A projekt a következő munkaállomásokat fogja használni a munka során:
 
 - Munkaállomások: `x` db, Windows 10-es, Windows 11-es, Ubuntu, stb... operációs rendszerrel
 - Asztali számítógép (CPU: i7 2600k, RAM: 16GB, GPU: Nvidia RTX2070)
-- Windows 10 asd afas fa
+- Asztali számítógép (CPU: i5 6600k, RAM: 16GB, GPU: Nvidia GTX1060)
+- Laptop (CPU: i7 8550u, RAM: 16GB, GPU: Intel UHD Graphics 620)
 
 A projekt a következő technológiákat/szoftvereket fogja használni a munka során:
 
@@ -161,6 +162,8 @@ Ennek a feladatnak az a célja, hogy megvalósításhoz szükséges lépéseket,
 
 Részfeladatai a következők:
 -valami 
+-rfsdfsdf sadf fs ad-f asdfasd f
+f asdfasd fasdf asdf as
 
 #### 8.1.1. Projektterv kitöltése
 
